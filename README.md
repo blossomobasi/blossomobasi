@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Blossom 👋
 
+**`Frontend Engineer`**
+
+I'm a frontend Engineer with a focus on creating delightful and user-friendly web experiences.
 <!--
 **Dev-kami/Dev-kami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
