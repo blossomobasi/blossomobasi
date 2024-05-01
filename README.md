@@ -4,6 +4,8 @@
 
 I'm a frontend Engineer with a focus on creating delightful and user-friendly web experiences.
 
+#
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -17,6 +19,7 @@ I'm a frontend Engineer with a focus on creating delightful and user-friendly we
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+#
 
 ### 📊 Stats
 
