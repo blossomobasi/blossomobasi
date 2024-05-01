@@ -2,11 +2,11 @@
 
 **`Frontend Engineer`**
 
-I'm a frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects
+I'm a frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects.
 
 #
 
-### 📫 You can find me on
+### 📫 How to reach me:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Blossom_obasi) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obasi-blossom-07063a25a/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iambl0ss0m/) 
 
 ### 🧰 Languages and Tools
@@ -21,6 +21,12 @@ I'm a frontend Engineer with a focus on creating delightful and user-friendly we
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+#
+
+### ⚡ Fun fact
+
+Beyond coding, I have a love for diverse interests. I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile. Connecting with friends and family is another source of happiness for me. Oh, and I can't forget to mention my enthusiasm for anime — it's a delightful escape!
 
 #
 
