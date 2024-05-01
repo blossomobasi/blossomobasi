@@ -1,4 +1,4 @@
-### Hi, I'm Blossom 👋
+### Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
 **`Frontend Engineer`**
 
