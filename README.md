@@ -2,7 +2,7 @@
 
 **`Frontend Engineer`**
 
-I'm a frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects.
+I'm a Frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects.
 
 #
 
