@@ -4,6 +4,10 @@
 
 I'm a Frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects.
 
+### ⚡ Fun fact
+
+Beyond coding, I have a love for diverse interests. I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile. Connecting with friends and family is another source of happiness for me. Oh, and I can't forget to mention my enthusiasm for anime — it's a delightful escape!
+
 #
 
 ### 📫 How to reach me:
@@ -19,12 +23,6 @@ I'm a Frontend Engineer with a focus on creating delightful and user-friendly we
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
-
-#
-
-### ⚡ Fun fact
-
-Beyond coding, I have a love for diverse interests. I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile. Connecting with friends and family is another source of happiness for me. Oh, and I can't forget to mention my enthusiasm for anime — it's a delightful escape!
 
 #
 
