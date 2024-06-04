@@ -28,12 +28,6 @@ Beyond coding, I have a love for diverse interests. I enjoy immersing myself in 
 
 #
 
-### Work 
-
-Portfolio: https://blossoms-portfolio.vercel.app
-
-#
-
 ### Profile Visits 
 
 ![visitors](https://komarev.com/ghpvc/?username=Dev-kami)
