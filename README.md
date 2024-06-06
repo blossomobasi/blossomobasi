@@ -2,7 +2,7 @@
 
 **`Frontend Engineer`**
 
-I'm a Frontend Engineer that loves to code😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the site seamlessly.
+I'm a Frontend Engineer that loves coding😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the site seamlessly.
 
 ### ⚡ About me - Beyond Coding
 
