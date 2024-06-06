@@ -2,16 +2,20 @@
 
 **`Frontend Engineer`**
 
-I'm a Frontend Engineer with a focus on creating delightful and user-friendly web experiences. I've contributed to the creation of visually striking websites for businesses and other exciting projects.
+I'm a Frontend Engineer that loves to code😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the site seamlessly.
 
-### ⚡ Fun fact
+### ⚡ About me - Beyond Coding
 
-Beyond coding, I have a love for diverse interests. I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile. Connecting with friends and family is another source of happiness for me. Oh, and I can't forget to mention my enthusiasm for anime — it's a delightful escape!
+Beyond coding, I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile and Chess. Oh, I also really love watching Anime. I almost forgot
 
 #
 
 ### 📫 How to reach me:
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Blossom_obasi) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obasi-blossom-07063a25a/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iambl0ss0m/) 
+
+#
+
+- 🌱 I’m currently learning ... Back-end Development (Node js)
 
 #
 
