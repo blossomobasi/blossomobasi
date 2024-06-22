@@ -1,7 +1,7 @@
 **`Frontend Engineer`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-- 🌱 I’m currently learning ... Back-end Development (Node js)
+🌱 I’m currently learning ... Back-end Development (Node js)
 
 #
 
