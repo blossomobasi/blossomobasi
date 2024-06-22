@@ -1,8 +1,6 @@
 **`Frontend Engineer`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
-
 🌱 I’m currently learning ... Back-end Development (Node js)
-
 #
 
 I'm a Frontend Engineer that loves coding😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the site seamlessly.
