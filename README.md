@@ -30,6 +30,6 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
   
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-kami&show_icons=true&theme=gruvbox)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossomobasi&show_icons=true&theme=gruvbox)
 
 </details>
