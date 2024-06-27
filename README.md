@@ -18,7 +18,7 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
 #
 
 ### 🧰 Languages and Tools
-
+<!--
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
@@ -27,6 +27,14 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
+-->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,react,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,git,linkedin,redux,supabase" />
+  
+  <br>
+  <br>
+</div>
 
 #
 
