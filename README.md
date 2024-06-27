@@ -28,7 +28,7 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
 <img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <br />
 -->
-<div align="center">
+<div>
     <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,react,vscode,github" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,git,linkedin,redux,supabase" />
   
