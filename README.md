@@ -1,14 +1,8 @@
-**`Frontend Engineer`**
+**`Fullstack dev`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-🌱 I’m currently learning ... Back-end Development (Node js)
-#
-
-I'm a Frontend Engineer that loves coding😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the site seamlessly.
-
-### ⚡ About me - Beyond Coding
-
-Beyond coding, I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile and Chess. Oh, I also really love watching Anime. I almost forgot.
+I'm a Fullstack dev that loves coding😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the web seamlessly.
+Beyond coding, I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile and Chess. Oh, I also really love watching Anime ✌🏼. I almost forgot.
 
 #
 
@@ -18,20 +12,10 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
 #
 
 ### 🧰 Languages and Tools
-<!--
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<br />
--->
 <div>
     <img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind,react,vscode,github" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,git,linkedin,redux,supabase" />
-  
+    
   <br>
   <br>
 </div>
