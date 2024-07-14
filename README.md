@@ -12,7 +12,7 @@ Beyond coding, I enjoy immersing myself in the world of gaming, particularly ind
 ### Languages and Tools🧰
 
 #### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,redux,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,redux,typescript,nextjs" />
 
 #### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
