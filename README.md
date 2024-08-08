@@ -1,8 +1,7 @@
 **`Fullstack dev`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-I'm a Fullstack dev that loves coding😍. My main focus in web development is to create user-friendly experiences in which users can interact properly with the web.
-Beyond coding, I enjoy immersing myself in the world of gaming, particularly indulging in Call of Duty Mobile and Chess. Oh, I also really love watching Anime ✌🏼. I almost forgot.
+I'm a Fullstack developer. My main focus in web development is to create user-friendly experiences.
 
 
 ### How to reach me 📫
