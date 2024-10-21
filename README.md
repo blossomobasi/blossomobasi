@@ -14,10 +14,10 @@ I'm a Fullstack developer. My main focus in web development is to create user-fr
 <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,react,redux,typescript,nextjs" />
 
 #### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nestjs,redis" />
 
 #### Tools
-<img src="https://skillicons.dev/icons?i=vscode,github,git" />
+<img src="https://skillicons.dev/icons?i=vscode,github,git,postman" />
 
 #
 
