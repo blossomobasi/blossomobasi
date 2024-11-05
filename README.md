@@ -1,7 +1,7 @@
 **`Fullstack dev`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-I'm a Fullstack developer. My main focus in web development is to create user-friendly experiences.
+I'm a Fullstack developer with over 2 years of experience.
 
 
 ### How to reach me 📫
