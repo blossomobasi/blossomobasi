@@ -1,7 +1,7 @@
 **`Software Engineer`**
 ## Hi, I'm Blossom <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="hi">
 
-I'm a Fullstack developer with over 3 years of experience.
+I'm a Software Engineer with over 3 years of experience.
 
 
 ### How to reach me 📫
