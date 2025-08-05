@@ -19,11 +19,8 @@
 
 #
 
-
-<details>
   
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=blossomobasi&show_icons=true&theme=gruvbox)
-
-</details>
+![Github stats](https://github-readme-stats.vercel.app/api?username=blossomobasi&count_private=true&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=blossomobasi)](https://git.io/streak-stats)
