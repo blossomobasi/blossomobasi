@@ -19,9 +19,6 @@
 
 #
 
-### Profile Visits 
-![visitors](https://komarev.com/ghpvc/?username=Dev-kami)
-
 
 <details>
   
